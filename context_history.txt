@@ -1,0 +1,4 @@
+
+user : tell me how old am i? assistant : I cannot determine your age without you providing me with the information. Could you please let me know your birth date? |
+user : hello assistant : Hello! How can I assist you today? |
+user : Hello assistant : Hello! How can I assist you today with your health and fitness goals? |
