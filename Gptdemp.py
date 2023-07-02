@@ -13,8 +13,8 @@ file_path_context_history = os.getcwd() + "/context_history.txt"
 
 user_sex = ""
 user_name = ""
-user_birth_date = ""
 user_age = 0
+user_birth_date = ""
 user_weight = 0.0
 user_height = 0.0
 user_bmi = 0.0
@@ -22,8 +22,6 @@ user_emoji = "🤠"
 
 meal_plan = ""
 workout_plan = ""
-
-
 
 
 with open(file_path_context,"r",  encoding="utf8") as file:
